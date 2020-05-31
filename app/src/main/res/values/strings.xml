@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Post Test</string>
+    <string name="screenshot_take_failed">Failed to take screenshot!!</string>
+    <string name="sharing_text">Your sharing text goes here...</string>
+    <string name="share_title">Share ScreenShoot</string>
+
+</resources>
